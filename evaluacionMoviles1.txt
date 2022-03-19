@@ -1,0 +1,17 @@
+RESPUESTAS MOMENTO 1 -- MOVILES 1
+
+1. 	El = se utiliza para asignar
+	El == se utiliza para igular .
+
+2. los tipos de datos basicos para asignar a las variables:
+	byte, short, int, long, float, double, boolean, char
+
+3. La empresa que se encarga del mantenimiento de Java es ORACLE TECHNOLOGY NETWORK
+
+4.JAVA puede ser utilizado en diferentes campos como por ejemplo:
+	Productividad y utilidades
+	Entretenimiento
+	Educacion
+	Comunicacion
+	Aplicaciones moviles
+	
